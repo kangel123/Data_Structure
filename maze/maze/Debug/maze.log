@@ -1,0 +1,5 @@
+﻿  maze.cpp
+C:\Users\k\Desktop\자료\4학년\1학기\컴공\데이타구조론\실습-데이타구조론\HW #2\maze\maze\maze.cpp(34,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\k\Desktop\자료\4학년\1학기\컴공\데이타구조론\실습-데이타구조론\HW #2\maze\maze\maze.cpp(34,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\k\Desktop\자료\4학년\1학기\컴공\데이타구조론\실습-데이타구조론\HW #2\maze\maze\maze.cpp(168,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  maze.vcxproj -> C:\Users\k\Desktop\자료\4학년\1학기\컴공\데이타구조론\실습-데이타구조론\HW #2\maze\Debug\maze.exe
